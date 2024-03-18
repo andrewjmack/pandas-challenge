@@ -4,7 +4,7 @@ Bootcamp challenge repo for Pandas module
 Andrew Mack
 March 2024
 
-##Contents
+## Contents
 
 - README.md
 - PyCitySchools
@@ -13,7 +13,7 @@ March 2024
         - schools.csv
         - students.csv
 
-##Sources
+## Sources
 
 - Snippets of initial starter code provided by the school
 
